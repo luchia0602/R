@@ -1,2 +1,2 @@
 # R
-Assignments for the HSE
+Assignments for HSE
